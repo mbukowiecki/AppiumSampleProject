@@ -1,0 +1,18 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.gradle
+
+# Maven
+log/
+target/
+
+# npm
+node_modules/
+
+# appium
+appium.log
+
+# Mac
+.DS_Store
